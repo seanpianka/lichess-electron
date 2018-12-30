@@ -1,0 +1,23 @@
+{
+  "name": "lichess-electron",
+  "version": "1.0.0",
+  "description": "Electron client for lichess.org",
+  "main": "app/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "Nope",
+  "keywords": [
+    "lichess",
+    "client",
+    "desktop",
+    "electron",
+    "cross",
+    "platform"
+  ],
+  "author": "Sean Pianka",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^4.0.0"
+  }
+}
