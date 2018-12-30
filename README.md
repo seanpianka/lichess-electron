@@ -1,6 +1,8 @@
 # lichess-electron
 An electron client for lichess.org.
 
+<img src="https://i.imgur.com/7y8u2R2.png">
+
 ## Quickstart
 
 First, clone:
